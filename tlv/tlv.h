@@ -1,4 +1,9 @@
-#include "../main.h"
+#include<stdio.h>
+#include<stdint.h>
+#include<string.h>
+#include<unistd.h>
+#include<stdlib.h>
+#include<fcntl.h>
 
 typedef struct {
     uint8_t ID;
